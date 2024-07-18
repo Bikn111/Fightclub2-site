@@ -23,7 +23,7 @@ ol{
     justify-content: space-between;
     text-align: center;
     height:max-content;
-    background: -moz-linear-gradient(#0d0d0e,#191919);
+    background-color: rgb(18, 18, 18);
     margin: 0;
     padding: 0;
 }
