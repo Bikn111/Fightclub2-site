@@ -350,7 +350,9 @@ h5{
     padding:20px;
 }
 .sp {
-    display: flex-block;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
     text-align: center;
     color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
