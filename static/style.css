@@ -1,5 +1,5 @@
 span {
-    display: inline-block;
+    display: flex;
     justify-content:center;
     color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -20,7 +20,7 @@ ol{
 }
 
 .panel{
-    display: flex;
+    display: inline-block;
     justify-content: space-between;
     text-align: center;
     height:max-content;
