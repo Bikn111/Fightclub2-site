@@ -1,5 +1,6 @@
 span {
-    display: inline-block;
+    display: flex;
+    justify-content:center;
     color: rgb(255, 255, 255);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-variant:inherit;
