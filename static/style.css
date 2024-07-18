@@ -24,7 +24,7 @@ ol{
     justify-content: space-between;
     text-align: center;
     height:max-content;
-    color: rgb(18, 18, 18);
+    backround-color: rgb(18, 18, 18);
     margin: 0;
     padding: 0;
 }
