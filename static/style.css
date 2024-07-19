@@ -337,7 +337,8 @@ h5{
     border-color: rgb(18, 18, 18);
     height:max-content;
     padding: 15px;
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 200px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-variant:inherit;
     background-size: 100% 100%;
