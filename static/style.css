@@ -401,7 +401,7 @@ h5{
     padding: 7px;
 }
 .ls{
-    display: flex;
+    display: inline-block;
     flex-direction:column;
     justify-content:space-between;
     text-align: center;
