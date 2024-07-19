@@ -445,3 +445,8 @@ br{
 .err{
     display:inline-block;
 }
+.mr{
+    display: inline-block;
+    flex-direction:column;
+    justify-content:space-between;
+}
