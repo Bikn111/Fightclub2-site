@@ -439,3 +439,6 @@ h5{
     border-color: rgb(190, 190, 190);
     background-color: rgb(43, 41, 41);
     padding: 1px;
+br{
+    margin-top:10px;
+}
