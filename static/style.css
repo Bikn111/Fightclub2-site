@@ -4,8 +4,8 @@ span {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-variant:inherit;
     font-size: 20px;
-    margin-left:5px;
     margin-left:25px;
+    margin-right:25px;
     border-radius: 100px;
     border-style: solid;
     border-width: 1.5px;
@@ -47,11 +47,11 @@ ol{
 h1{ 
     display:inline-block;
     color: rgb(255, 255, 255);
-    font-size: 30px;
+    font-size: 35px;
     margin-left: 30px;
     margin-right: 30px;
     margin-bottom: 40px;
-    padding: 30px;
+    padding: 25px;
     text-align: center;
     border-style: solid;
     border-width: 5px;
