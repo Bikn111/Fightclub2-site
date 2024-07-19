@@ -23,7 +23,6 @@ ol{
     flex-direction: row;
     justify-content: space-between;
     text-align: center;
-    max-height: 60px;
     height:max-content;
     background-color: #0d0d0e;
     margin: 0;
