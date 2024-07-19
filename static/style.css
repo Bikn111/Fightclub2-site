@@ -304,14 +304,14 @@ h5{
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 30px;
-    padding: 40px;
+    padding: 30px;
     text-align: center;
     border-style: solid;
     border-width: 5px;
     border-color: rgb(18, 18, 18);
     height:max-content;
     background: linear-gradient(45deg,#3060c7,#9d1ee1);
-    margin-top: 20px;
+    margin-top: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-variant:inherit;
     background-size: 100% 100%;
