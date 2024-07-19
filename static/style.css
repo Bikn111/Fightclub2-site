@@ -33,9 +33,6 @@ body{
     padding: 0;
     height:max-content;
     width: 100%;
-	max-width: 640px;
-	margin: 0 auto;
-	padding: 0;
     box-sizing: border-box;
     background: -moz-linear-gradient(rgb(20, 187, 78),#5519e1);
 }
