@@ -12,7 +12,6 @@ span {
     border-color: rgb(232, 232, 232);
     background-color: rgb(20, 0, 204);
     padding:12px;
-    opacity: 0.4;
 }
 
 ol{
@@ -59,7 +58,7 @@ h1{
     border-color: rgb(18, 18, 18);
     height:max-content;
     background: linear-gradient(45deg,#3060c7,#9d1ee1);
-    margin-top: 35px;
+    margin-top: 45px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-variant:inherit;
     background-size: 100% 100%;
