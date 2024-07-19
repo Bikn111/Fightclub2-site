@@ -441,5 +441,5 @@ br{
     margin-top:10px;
 }
 .err{
-    display:flex;
+    display:inline-block;
 }
