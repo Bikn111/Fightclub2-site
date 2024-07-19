@@ -399,6 +399,7 @@ h5{
     padding: 7px;
 }
 .ls{
+    justify-content: centre;
     text-align: center;
     margin-top: 5px;
 }
