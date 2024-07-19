@@ -402,8 +402,7 @@ h5{
 }
 .ls{
     display: flex;
-    flex-direction:column;
-    justify-content: space-between;
+    font-size: 20px;
     text-align: center;
     margin-top: 5px;
 }
