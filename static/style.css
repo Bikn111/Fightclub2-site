@@ -27,7 +27,6 @@ ol{
     background-color: #0d0d0e;
     margin: 0;
     padding: 0;
-    opacity: 0.4;
 }
 body{
     margin: 0;
@@ -450,4 +449,7 @@ br{
     display: inline-block;
     flex-direction:column;
     justify-content:space-between;
+}
+.proz{
+    opacity: 0.4;
 }
