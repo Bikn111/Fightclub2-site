@@ -442,3 +442,6 @@ h5{
 br{
     margin-top:10px;
 }
+.err{
+    display:flex;
+}
