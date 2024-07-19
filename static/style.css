@@ -393,6 +393,8 @@ h5{
     height:max-content;
 }
 .rs{
+    display: inline-block;
+    flex-direction:column;
     width: 250px;
     height: 250px;
     border-style: solid;
@@ -404,7 +406,7 @@ h5{
 }
 .ls{
     display: inline-block;
-    justify-content:space-between;
+    flex-direction:column;
     text-align: center;
     margin-top: 5px;
 }
