@@ -48,8 +48,8 @@ h1{
     display:inline-block;
     color: rgb(255, 255, 255);
     font-size: 40px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 40px;
     padding: 30px;
     text-align: center;
