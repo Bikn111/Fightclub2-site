@@ -399,9 +399,6 @@ h5{
     padding: 7px;
 }
 .ls{
-    display: inline-block;
-    flex-direction:column;
-    justify-content: center;
     text-align: center;
     margin-top: 5px;
 }
