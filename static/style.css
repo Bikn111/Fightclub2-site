@@ -384,7 +384,7 @@ h5{
     background-color: rgb(43, 41, 41);
 }
 .u{
-    backround-image: static/images/photo_2024-10-08_13-51-07.jpg;
+    backround: linear-gradient(45deg, #e7bb0d, #ff009d);
     margin: 0;
     padding: 0;
     height:max-content;
